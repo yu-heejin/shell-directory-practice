@@ -7,9 +7,3 @@ echo "Current directory is $(pwd)"
 source ./sub.sh
 
 echo "Current directory is $(pwd)"
-
-# 2. 자식 쉘로 실행하는 경우
-chmod +x ./sub.sh
-./sub.sh
-
-echo "Current directory is $(pwd)"
