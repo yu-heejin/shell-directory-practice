@@ -116,6 +116,7 @@ echo $(readlink -f /home/ubuntu/text.txt)
 ```
 
 ## 참고 자료
-https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=big5347&logNo=220100371362
-https://chanchan-father.tistory.com/846
-https://rhrhth23.tistory.com/85
+* https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=big5347&logNo=220100371362  
+* https://chanchan-father.tistory.com/846  
+* https://rhrhth23.tistory.com/85
+  
